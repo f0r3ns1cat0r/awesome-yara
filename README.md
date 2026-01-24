@@ -217,6 +217,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 * [clara](https://github.com/abhinavbom/clara) :sparkles:
     - Serverless, real-time, ClamAV+Yara scanning for your S3 Buckets.
 * [Cloudina Security Hawk](https://github.com/cloudina/hawk) :sparkles:
+* [nullsec-yara](https://github.com/bad-antics/nullsec-yara)
+    - YARA rule development toolkit with rule generation, optimization, and testing capabilities.
     - Multi Cloud antivirus scanning API based on CLAMAV and YARA for AWS S3, AZURE Blob Storage, GCP Cloud Storage.
 * [CrowdStrike Feed Management System](https://github.com/CrowdStrike/CrowdFMS)
     - Framework for automating collection and processing of samples from VirusTotal, and executing commands based on YARA rule matches.
